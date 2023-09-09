@@ -15,7 +15,3 @@ authors = ["ksm <hw107744@gmail.com>"]
 ring = "0.16"
 rand = "0.8"
 filetime = "0.2"
-
-[lib]
-name = "del"
-path = "src/lib.rs"
